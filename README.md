@@ -22,6 +22,8 @@ type Mutation {
 }
 ```
 
+Example module - https://github.com/hkreuter/oxid-customergraph
+
 ### Example 2
 
 As admin user of (groups oxidadmin, oxidadmingraph) I want to query the count of orders
@@ -43,6 +45,8 @@ type Query {
     ):  AdminOrders!
 }
 ```
+
+Example module - https://github.com/hkreuter/oxid-admingraph
 
 ### Example 3
 
